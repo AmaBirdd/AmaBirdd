@@ -2,7 +2,8 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me  J̷a̷v̷a̷   skype: froky6004@gmail.com
+- 📫 How to reach me  J̷a̷v̷a̷   mail
+-: froky6004@gmail.com
 
 <!---
 AmaBirdd/AmaBirdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
